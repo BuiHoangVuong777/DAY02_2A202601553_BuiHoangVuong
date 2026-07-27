@@ -9,14 +9,14 @@
 | 3 | Đặng Tiến Thành | 2A202601305 | Thành viên đề xuất |
 | 4 | Ngô Thành Đạt | 2A202601323 | Thành viên |
 | 5 | Nguyễn Chí Quang | 2A202601932 | Thành viên đề xuất |
-| 5 | Nguyễn Chí Quang | 2A202601932 | Thành viên đề xuất |
+| 5 | Nguyễn Lê Minh | 2A202601047 | Thành viên đề xuất |
 
 1) Nhật ký hội tụ
 
-Qua quá trình thảo luận, nhóm dần hội tụ về một vấn đề rất rõ: SMEs và freelancer bán hàng trên thương mại điện tử đang thiếu một công cụ AI đủ rẻ, đủ sâu và đủ sát thực tế để phân tích hành vi khách hàng từ comment. Các giải pháp analytics hiện có thường quá đắt, chỉ cho insight tổng quan, chưa đi sâu vào những tín hiệu thật sự quan trọng như nhu cầu, phản đối, do dự, ý định mua và cảm xúc của khách hàng. Vì vậy, nhóm xác định trọng tâm không phải là “xây AI cho có”, mà là xây một hệ thống AI tập trung vào comment như nguồn dữ liệu hành vi giàu giá trị nhất.
+Qua quá trình thảo luận, nhóm dần hội tụ về một vấn đề rất rõ: SMEs và freelancer bán hàng trên thương mại điện tử đang thiếu một công cụ AI đủ rẻ, đủ sâu và đủ sát thực tế để phân tích hành vi khách hàng từ comment. Các giải pháp analytics hiện có thường quá đắt hoặc chỉ cung cấp insight tổng quan, chưa đi sâu vào những tín hiệu thật sự quan trọng như nhu cầu, phản đối, do dự, ý định mua và cảm xúc của khách hàng. Vì vậy, nhóm xác định trọng tâm không phải là “xây AI cho có”, mà là xây một hệ thống AI tập trung vào comment như nguồn dữ liệu hành vi giàu giá trị nhất.
 2) Validation / Research
 
-Từ research ban đầu, nhóm nhận thấy comment là một nguồn dữ liệu cực kỳ quan trọng trong thương mại điện tử vì nó phản ánh trực tiếp suy nghĩ thật của khách hàng. Trong comment có thể tìm thấy các dấu hiệu như: khách đang quan tâm điều gì, họ lăn tăn điểm nào, lý do họ chưa mua, lý do họ quay lại hỏi thêm, và những yếu tố nào ảnh hưởng đến quyết định mua hàng. Tuy nhiên, phần lớn công cụ hiện nay либо chỉ dừng ở việc đếm số lượng comment, phân tích cảm xúc rất nông, chưa chuyển được dữ liệu này thành insight hành động cho người bán. Điều đó cho thấy bài toán là có thật, có nhu cầu thật, và còn khoảng trống lớn để AI giải quyết.
+Từ research ban đầu, nhóm nhận thấy comment là một nguồn dữ liệu cực kỳ quan trọng trong thương mại điện tử vì nó phản ánh trực tiếp suy nghĩ thật của khách hàng. Trong comment có thể tìm thấy các dấu hiệu như: khách đang quan tâm điều gì, họ lăn tăn điểm nào, lý do họ chưa mua, lý do họ quay lại hỏi thêm, và những yếu tố nào ảnh hưởng đến quyết định mua hàng. Tuy nhiên, phần lớn công cụ hiện nay chỉ dừng ở việc đếm số lượng comment hoặc phân tích cảm xúc rất nông, chưa chuyển được dữ liệu này thành insight hành động cho người bán. Điều đó cho thấy bài toán là có thật, có nhu cầu thật, và còn khoảng trống lớn để AI giải quyết.
 3) Workflow trước / sau
 
 Trước khi có AI, người bán thường phải tự đọc từng comment, tự phân loại câu hỏi, tự đoán cảm xúc khách hàng và tự rút ra insight thủ công. Cách này vừa tốn thời gian, vừa dễ bỏ sót tín hiệu quan trọng, nhất là khi số lượng comment tăng nhanh theo từng chiến dịch bán hàng.
